@@ -1,13 +1,16 @@
 This repository includes scripts and related tools for use with Caustic Visualizer™.
 
-Caustic Visualizer is a 3D rendering tool from Imagination Technologies that extends
-Autodesk® Maya® ond Autodesk® 3Ds Max®. You can find out more about it at http://www.caustic.com
+Caustic Visualizer is a interactive raytraced 3D rendering tool from Imagination Technologies
+that extends Autodesk® Maya® ond Autodesk® 3Ds Max®. You can find out more about it and
+even get a trial edition at http://www.caustic.com
 
-The tools and scripts here are public and NOT part of the standard Visualizer release.
+The tools and scripts here are public, open, and NOT part of the standard Visualizer release --
+they're provided to help users be even more awesome.
 
-You can install and use these tools with or without a GitHub account -- with an account is easier.
+You can download & install these tools with or without a (free) GitHub account -- though
+with an account is easier!
 
-If you have an account and your Maya installation locations are pretty "plain vanilla":
+If you have a GitHub account and your Maya installation locations are pretty "plain vanilla":
 
     1. Clone the VisualizerTools repo to the standard place: that is,
 	    ..\Documents\GitHub\VisualizerTools
@@ -22,7 +25,7 @@ If you have an account and your Maya installation locations are pretty "plain va
 	    getenv "MAYA_SCRIPT_PATH"
 	    in the Mel script editor to make sure you're good.
 
-If you don't have or want a (free) GitHub account:
+If you don't have or want a (free, remember?) GitHub account:
     1. Download the repository as a ZIP file, and unpack it into your ..\Documents\
             folder. The final path can be ..\Documents\GitHub\VisualizerTools-master\
 	    or ..\Documents\VisualizerTools-master\
